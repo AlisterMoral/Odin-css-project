@@ -1,0 +1,44 @@
+
+.button  {
+    background-color: #3882f6;
+    color: white;
+    width: 60px;
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+
+
+
+
+
+
+
+.quotes {
+    background-color: #e5e7eb;
+    font-style: italic; 
+    font-size: 36px;
+    color: #1F2937;
+    display: flex;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+.cta {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    background-color: #3882F6;
+}
+
+
+
+
